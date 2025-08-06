@@ -6,7 +6,7 @@ const HelpLine = () => {
   return (
     <>
       <section className="bg-blue-950 text-white p-3">
-        <div className="w-10/12 mx-auto">
+        <div className="w-8/12 mx-auto">
           <div className="flex justify-between items-center">
             <div className="flex items-center gap-1">
               <BiDialpad size={18} className="text-orange-400" />

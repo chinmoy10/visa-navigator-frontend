@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "United States",
+    "flag": "https://i.ibb.co/DDT1P6DM/usa.png"
+  },
+  {
+    "id": 2,
+    "name": "Canada",
+    "flag": "https://i.ibb.co/7dxmsLQz/ca.png"
+  },
+  {
+    "id": 3,
+    "name": "United Kingdom",
+    "flag": "https://i.ibb.co/JWqHtQtJ/uk.png"
+  },
+  {
+    "id": 4,
+    "name": "Australia",
+    "flag": "https://i.ibb.co/8nvyPxMx/aus.png"
+  },
+  {
+    "id": 5,
+    "name": "Germany",
+    "flag": "https://i.ibb.co/DHdkscr2/germ.png"
+  },
+  {
+    "id": 6,
+    "name": "France",
+    "flag": "https://i.ibb.co/tp5FNwJN/fra.png"
+  },
+  {
+    "id": 7,
+    "name": "Japan",
+    "flag": "https://i.ibb.co/5g49BWxP/jp.png"
+  },
+  {
+    "id": 8,
+    "name": "India",
+    "flag": "https://i.ibb.co/7JwWf0N2/ind.png"
+  },
+  {
+    "id": 9,
+    "name": "Bangladesh",
+    "flag": "https://i.ibb.co/8L5NWn9Y/bd.png"
+  },
+  {
+    "id": 10,
+    "name": "Norway",
+    "flag": "https://i.ibb.co/Ngrg8bXb/nor.png"
+  },
+  {
+    "id": 11,
+    "name": "United Arab Emirates",
+    "flag": "https://i.ibb.co/yBmk8rxM/uae.png"
+  },
+  {
+    "id": 12,
+    "name": "Singapore",
+    "flag": "https://i.ibb.co/v48GBWxF/singa.png"
+  },
+  {
+    "id": 13,
+    "name": "Malaysia",
+    "flag": "https://i.ibb.co/Z6y2K0dY/malay.png"
+  },
+  {
+    "id": 14,
+    "name": "Nepal",
+    "flag": "https://i.ibb.co/XxvVnVJL/np.png"
+  },
+  {
+    "id": 15,
+    "name": "China",
+    "flag": "https://i.ibb.co/21TQZzRc/cn.png"
+  },
+  {
+    "id": 16,
+    "name": "Thiland",
+    "flag": "https://i.ibb.co/nxJrp9D/thi.png"
+  }
+]

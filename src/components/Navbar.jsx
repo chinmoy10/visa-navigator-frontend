@@ -69,7 +69,7 @@ const Navbar = () => {
   return (
     <>
       <div className="navbar bg-gray-500/80 py-3">
-        <div className="flex md:w-10/12 mx-auto">
+        <div className="flex md:w-8/12 mx-auto">
           <div className="navbar-start md:w-[25%]">
             <div className="dropdown">
               <div
